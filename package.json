@@ -37,7 +37,7 @@
     "react-jsx-parser": "^1.2.1",
     "react-split-pane": "^0.1.74",
     "react-syntax-highlighter": "^6.1.2",
-    "socketcluster-client": "^9.0.2",
+    "socketcluster-client": "^15.0.0",
     "styled-components": "^2.4.0",
     "typography-theme-bootstrap": "^0.16.7",
     "typography-theme-github": "^0.15.10",
