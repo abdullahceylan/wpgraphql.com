@@ -36,7 +36,7 @@
     "react-instantsearch": "^4.4.0",
     "react-jsx-parser": "^1.2.1",
     "react-split-pane": "^0.1.74",
-    "react-syntax-highlighter": "^6.1.2",
+    "react-syntax-highlighter": "^13.0.0",
     "socketcluster-client": "^9.0.2",
     "styled-components": "^2.4.0",
     "typography-theme-bootstrap": "^0.16.7",
