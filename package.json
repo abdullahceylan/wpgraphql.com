@@ -5,7 +5,7 @@
   "author": "Jason Bahl <jasonbahl@mac.com>",
   "dependencies": {
     "algoliasearch": "^3.24.9",
-    "gatsby": "^1.9.145",
+    "gatsby": "^2.32.8",
     "gatsby-link": "^1.6.32",
     "gatsby-plugin-antd": "^1.0.10",
     "gatsby-plugin-catch-links": "^1.0.14",
@@ -37,7 +37,7 @@
     "react-jsx-parser": "^1.2.1",
     "react-split-pane": "^0.1.74",
     "react-syntax-highlighter": "^6.1.2",
-    "socketcluster-client": "^9.0.2",
+    "socketcluster-client": "^17.1.0",
     "styled-components": "^2.4.0",
     "typography-theme-bootstrap": "^0.16.7",
     "typography-theme-github": "^0.15.10",
